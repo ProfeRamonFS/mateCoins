@@ -1,2 +1,2 @@
 # Dinero Ficticio
-Aplicación para gestión de puntos escolares.
+App React para administrar puntos escolares.
